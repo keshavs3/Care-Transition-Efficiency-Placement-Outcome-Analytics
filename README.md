@@ -1,6 +1,6 @@
 # Care Transition Efficiency & Placement Outcome Analytics
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://care-transition-efficiency-placement-outcome-analytics-mxvpwqq.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://care-transition-efficiency-placement-outcome-new.streamlit.app/)
 
 ## Overview
 
@@ -10,13 +10,13 @@ Care Transition Efficiency & Placement Outcome Analytics is an interactive Strea
 
 ## Live Dashboard
 
-**Streamlit App:** https://care-transition-efficiency-placement-outcome-analytics-mxvpwqq.streamlit.app/
+**Streamlit App:** https://care-transition-efficiency-placement-outcome-new.streamlit.app/
 
 ---
 
 ## GitHub Repository
 
-**GitHub Project Link:** https://github.com/Sandhya-Rani-Dash/Care-Transition-Efficiency-Placement-Outcome-Analytics
+**GitHub Project Link:** https://github.com/keshavs3/Care-Transition-Efficiency-Placement-Outcome-Analytics
 
 ---
 
@@ -155,7 +155,7 @@ The repository also includes a complete research paper containing:
 Clone the repository
 
 ```bash
-git clone https://github.com/Sandhya-Rani-Dash/Care-Transition-Efficiency-Placement-Outcome-Analytics.git
+git clone https://github.com/keshavs3/Care-Transition-Efficiency-Placement-Outcome-Analytics.git
 ```
 
 Install dependencies
